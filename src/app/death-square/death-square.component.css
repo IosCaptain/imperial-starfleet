@@ -1,0 +1,41 @@
+.container{
+  display: flex;
+  justify-content: center;
+}
+.gray-square {
+  padding: 20px;
+  margin: 20px;
+  height: 600px;
+  width: 600px;
+  border: 10px solid lightgray;
+  background-color: gray;
+
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

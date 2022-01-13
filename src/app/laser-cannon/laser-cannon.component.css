@@ -1,0 +1,8 @@
+.red-laser{
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 44%;
+  left: 48%
+}

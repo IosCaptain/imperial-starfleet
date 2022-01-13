@@ -1,0 +1,8 @@
+.tie-fighter-container{
+  display: flex;
+  justify-content: center;
+}
+.tie-fighter{
+  width: 50px;
+  height: 50px;
+}
